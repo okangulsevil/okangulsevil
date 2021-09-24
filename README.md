@@ -2,9 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okangulsevil&show_icons=true&theme=radical)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okangulsevil&layout=compact)](https://github.com/okangulsevil/github-readme-stats)
-
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](github.com/okangulsevil) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
