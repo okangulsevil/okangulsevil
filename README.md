@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Okan Gülsevil
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okangulsevil)](https://github.com/okangulsevil/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okangulsevil&hide=contribs,prs)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](github.com/okangulsevil) 
