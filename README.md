@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Okan Gülsevil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okangulsevil&show_icons=true&theme=radical)
-
+![Okan Gülsevil GitHub stats](https://github-readme-stats.vercel.app/api?username=okangulsevil&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okangulsevil&layout=compact)](https://github.com/okangulsevil/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/okangulsevil) 
